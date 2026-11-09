@@ -27,4 +27,4 @@ Oppure chiedi a Claude di "umanizzare", "rendere meno AI" o "rendere più natura
 
 ## Licenza
 
-MIT. Vedi [LICENSE](LICENSE) e [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+MIT, vedi [LICENSE](LICENSE). Alcune parti derivano da progetti di terze parti rilasciati con licenza MIT: i relativi avvisi di copyright sono in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
